@@ -110,7 +110,6 @@ impl Writer {
             }
         }
     }
-    fn new_line(&mut self) {}
 }
 
 pub fn print_something() {
